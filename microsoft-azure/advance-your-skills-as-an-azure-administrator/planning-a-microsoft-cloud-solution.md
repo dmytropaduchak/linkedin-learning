@@ -1,6 +1,6 @@
 ## [Planning a Microsoft Cloud Solution](https://www.linkedin.com/learning/planning-a-microsoft-cloud-solution-2)
 
-#### What Is the Cloud?
+### What Is the Cloud?
 
 What are some common considerations when moving to a cloud environment?
 
