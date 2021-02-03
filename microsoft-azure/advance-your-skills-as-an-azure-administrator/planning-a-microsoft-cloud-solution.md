@@ -1,0 +1,1 @@
+## [Planning a Microsoft Cloud Solution](https://www.linkedin.com/learning/planning-a-microsoft-cloud-solution-2)
