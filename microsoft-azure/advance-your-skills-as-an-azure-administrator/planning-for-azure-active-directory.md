@@ -1,6 +1,5 @@
 ## [Planning for Azure Active Directory](https://www.linkedin.com/learning/planning-for-azure-active-directory)
 
-------
 ### AD Connect Fundamentals
 ------
 How many internal components comprise the AD Connect tool?
@@ -59,7 +58,6 @@ Which AD Connect supporting tool should you use to perform a Metaverse Search?
 - [+] Synchronization Service Manager
 - [-] AD Connect Wizard
 
-------
 ### Planning for Users and Devices
 ------
 
@@ -112,7 +110,6 @@ Which device management strategy is convenient for managing devices of Synchroni
 - [-] Azure AD Join
 - [-] Device Registration
 
-------
 ### Preparing the Environment
 ------
 
@@ -144,7 +141,6 @@ What can you do to ensure low latency of synchronization during the installation
 - [+] Install AD Connect and its database on the same server.
 - [-] Install AD Connect in Express mode.
 
-------
 ### Deploying AD Connect
 ------
 

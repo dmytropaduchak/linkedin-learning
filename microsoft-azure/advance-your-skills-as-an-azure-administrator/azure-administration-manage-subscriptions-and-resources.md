@@ -1,6 +1,5 @@
 ## [Azure Administration: Manage Subscriptions and Resources](https://www.linkedin.com/learning/azure-administration-manage-subscriptions-and-resources)
 
-------
 ### Manage Azure Subscriptions
 ------
 
@@ -39,7 +38,6 @@ An initiative definition is _____.
 - [-] a grouping of parameters definitions
 - [-] sa subset of policy assignments
 
-------
 ### Analyze Resource Utilization and Consumption
 ------
 
@@ -91,7 +89,6 @@ ABC company has lost access to all of its Azure resources halfway through the bi
 - [-] The network admin forgot to pay the bill.
 - [-] The credit card associated with the Pay As You Go subscription expired.
 
-------
 ### Manage Resource Groups
 ------
 

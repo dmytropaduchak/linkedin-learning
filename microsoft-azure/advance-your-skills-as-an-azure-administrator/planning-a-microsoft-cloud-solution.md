@@ -1,6 +1,5 @@
 ## [Planning a Microsoft Cloud Solution](https://www.linkedin.com/learning/planning-a-microsoft-cloud-solution-2)
 
-------
 ### What Is the Cloud?
 ------
 What are some common considerations when moving to a cloud environment?
@@ -10,7 +9,6 @@ What are some common considerations when moving to a cloud environment?
 - [-] the costs
 - [+] all of these answers
 
-------
 ### The Foundation
 ------
 
@@ -46,7 +44,6 @@ The Azure Storage Explorer application must be _____.
 - [+] downloaded and installed locally
 - [-] run in the Azure portal
 
-------
 ### Azure Virtual Machines
 ------
 
@@ -80,7 +77,6 @@ Replication is _____.
 - [-] a full backup solution
 - [+] not a backup
 
-------
 ### Azure Active Directory
 ------
 
@@ -98,7 +94,6 @@ he Azure AD Connect Tool includes what services?
 - [-] Health Services
 - [+] all of these answers
 
-------
 ### Azure Backup and Disaster Recovery
 ------
 
@@ -115,7 +110,6 @@ Virtual machine backups must be _____.
 - [-] in any region outside of a Recovery Services Vault
 - [-] in any region parallel to a Recovery Services Vault
 
-------
 ### Exam Questions
 ------
 
