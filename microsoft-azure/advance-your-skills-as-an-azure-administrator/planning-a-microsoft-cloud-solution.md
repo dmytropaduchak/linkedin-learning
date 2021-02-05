@@ -1,7 +1,8 @@
 ## [Planning a Microsoft Cloud Solution](https://www.linkedin.com/learning/planning-a-microsoft-cloud-solution-2)
 
+------
 ### What Is the Cloud?
-
+------
 What are some common considerations when moving to a cloud environment?
 
 - [-] the current on-premises infrastructure
@@ -9,7 +10,9 @@ What are some common considerations when moving to a cloud environment?
 - [-] the costs
 - [+] all of these answers
 
+------
 ### The Foundation
+------
 
 Resources in a resource group should share the same _____.
 
@@ -43,7 +46,9 @@ The Azure Storage Explorer application must be _____.
 - [+] downloaded and installed locally
 - [-] run in the Azure portal
 
+------
 ### Azure Virtual Machines
+------
 
 What type of VPN Gateways support remote users?
 
@@ -75,7 +80,9 @@ Replication is _____.
 - [-] a full backup solution
 - [+] not a backup
 
+------
 ### Azure Active Directory
+------
 
 Which choices are available as a multifactor authentication method?
 
@@ -91,7 +98,9 @@ he Azure AD Connect Tool includes what services?
 - [-] Health Services
 - [+] all of these answers
 
+------
 ### Azure Backup and Disaster Recovery
+------
 
 When using LRS (locally redundant storage) how many copies are stored within the same region?
 
@@ -106,7 +115,9 @@ Virtual machine backups must be _____.
 - [-] in any region outside of a Recovery Services Vault
 - [-] in any region parallel to a Recovery Services Vault
 
+------
 ### Exam Questions
+------
 
 1. What is the cloud?
 - [-] Amazon data centers only
