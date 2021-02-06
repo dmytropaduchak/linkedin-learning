@@ -1,0 +1,1 @@
+## [Azure Administration: Deploy and Manage Compute Resources](https://www.linkedin.com/learning/azure-administration-deploy-and-manage-compute-resources) 
