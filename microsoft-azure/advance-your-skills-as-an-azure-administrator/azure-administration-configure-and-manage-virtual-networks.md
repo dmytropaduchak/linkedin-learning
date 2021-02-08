@@ -81,11 +81,72 @@ What cmdlet would you use to create a route?
 ### Create Connectivity between Virtual Networks
 ------
 
+You are connecting two virtual networks in Azure. The traffic must be encrypted during transit. What type of connection should you use?
+
+- [-] Peered Network
+- [+] VNet to VNet
+- [-] Connected Network
+
+To verify two networks have been peered in effective routes, what is the next hop type?
+
+- [+] peered
+- [-] none
+- [-] the virtual network that is being peered to
+
+What cmdlet would you use to peer to another network?
+
+- [-] Add-AZVirtualNetworkPeer
+- [-] New-AZVirtualNetworkPeer
+- [+] Add-AZVirtualNetworkPeering
+- [-] New-AZVirtualNetworkPeering
+
+You are setting up a VNet connection and require multiple vnet gateways from a single on-premises connection. What do you need to enable for this functionality?
+
+- [-] Active-passive mode
+- [+] Active-active mode
+- [-] Nothing--this functionality is enabled by default.
+- [-] Passive-active mode
+
+You need to connect two networks in different subscriptions using a VNet to VNet connection. How would you accomplish this?
+
+- [-] Create a new VNet in the same subscription.
+- [-] This scenario is not supported.
+- [+] Create a VNet to VNet connection using PowerShell.
+- [-] Create a VNet to VNet connection using the Portal.
 
 ### Configure Name Resolution
 ------
 
+To avoid accidental removal of DNS records, what must you do if you "bring your own DNS" to Azure?
+
+- [-] Turn on scavenging.
+- [+] Turn off scavenging.
+- [-] Nothing if you're in a "bring your own DNS" scenario.
+
+Microsoft provides domain names for Azure DNS.
+
+- [-] TRUE
+- [+] FALSE
+
+To create a Private DNS, what cmdlet do you need to include when creating a zone using PowerShell?
+
+- [-] -Zone Private
+- [+] -ZoneType Private
+- [-] -ZoneType Public
+- [-] -Type Private
 
 ### Create and Configure a Network Security Group
 ------
 
+What are the default NSG rule(s)?
+
+- [-] DenyAllInBound
+- [-] AllowAzureLoadBalancerInBound
+- [-] AllowVNetInBound
+- [+] all of these answers
+
+Security rules are processed in which order?
+
+- [-] there is no priority
+- [+] lowest to highest
+- [-] highest to lowest
