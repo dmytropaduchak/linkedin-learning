@@ -1,0 +1,1 @@
+## [AWS Essential Training for Developers](https://www.linkedin.com/learning/aws-essential-training-for-developers/what-is-the-best-way-to-use-aws)
