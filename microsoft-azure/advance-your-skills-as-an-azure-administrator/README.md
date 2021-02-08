@@ -8,3 +8,4 @@ Microsoft Azure is one of the leading enterprise-grade cloud computing platforms
 - [Azure Administration: Implement and Manage Storage](azure-administration-implement-and-manage-storage.md)
 - [Azure Administration: Deploy and Manage Compute Resources](azure-administration-deploy-and-manage-compute-resources.md) 
 - [Azure Administration: Configure and Manage Virtual Networks](azure-administration-configure-and-manage-virtual-networks.md)
+- [Microsoft Azure: Backup and Disaster Recovery](microsoft-Azure-backup-and-disaster-recovery.md)
