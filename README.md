@@ -11,6 +11,7 @@ Simple repository is for those looking for answers to the LinkedIn assessment qu
 Amazon Web Services is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
 
 - [AWS Essential Training for Developers](aws/aws-essential-training-for-developers.md)
+- [Learning Amazon Web Services (AWS) for Developers](aws/learning-amazon-web-services-for-developers.md)
 
 ## Microsoft Azure
 
